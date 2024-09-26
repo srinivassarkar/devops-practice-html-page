@@ -16,7 +16,7 @@ This project is designed for wannabe DevOps engineers (like me... and you!). The
 
 ### 1. **Clone this Repo**
 ```bash
-git clone [https://github.com/your-username/devops-journey.git](https://github.com/srinivassarkar/devops-practice-html-page.git)
+git clone https://github.com/srinivassarkar/devops-practice-html-page.git
 cd devops-journey
 ```
 
